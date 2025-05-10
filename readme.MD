@@ -13,5 +13,5 @@
 # Egg Dosa
 
 * Dosa batter
-* 1 egg and oil
-* garam masala
+* 2 egg and oil
+* chicken masala
