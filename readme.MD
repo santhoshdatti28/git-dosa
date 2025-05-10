@@ -14,3 +14,4 @@
 
 * Dosa batter
 * 1 egg and oil
+* garam masala
